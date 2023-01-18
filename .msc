@@ -1,13 +1,23 @@
-secpol.msc: Security policy editor
+`secpol.msc: Security policy editor`
+
 gpedit.msc: Local Group Policy editor
+
 lusrmgr.msc: Local Users and Groups manager
+
 dsa.msc: Active Directory Users and Computers
+
 certmgr.msc: Certificates manager
+
 compmgmt.msc: Computer Management console
+
 eventvwr.msc: Event Viewer
+
 services.msc: Services console
+
 diskmgmt.msc: Disk Management
+
 devmgmt.msc: Device Manager
+
 fsmgmt.msc: Shared Folders
 
 rsop.msc: Resultant Set of Policy
