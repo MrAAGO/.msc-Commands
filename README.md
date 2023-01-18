@@ -62,37 +62,37 @@
 
 `netstat.exe`: Network statistics
 
-nslookup.exe: DNS lookup
+`nslookup.exe`: DNS lookup
 
-ping.exe: Network connectivity testing
+`ping.exe`: Network connectivity testing
 
-route.exe: View and modify routing table
+`route.exe`: View and modify routing table
 
-tracert.exe: Trace network route
+`tracert.exe`: Trace network route
 
-telnet.exe: Telnet client
+`telnet.exe`: Telnet client
 
-tlntadmn.exe: Telnet Server administration
+`tlntadmn.exe`: Telnet Server administration
 
-wuauclt.exe: Windows Update client
+`wuauclt.exe`: Windows Update client
 
-winrm.cmd: Windows Remote Management
+`winrm.cmd`: Windows Remote Management
 
-winrs.exe: Windows Remote Shell
+`winrs.exe`: Windows Remote Shell
 
-powershell.exe: PowerShell command-line interface.
+`powershell.exe`: PowerShell command-line interface.
 
-srvmgr.msc : Server Manager
+`srvmgr.msc` : Server Manager
 
-cluadmin.msc : Cluster Administrator
+`cluadmin.msc` : Cluster Administrator
 
-domain.msc : Active Directory Domains and Trusts
+`domain.msc` : Active Directory Domains and Trusts
 
-dfsgui.msc : Distributed File System
+`dfsgui.msc` : Distributed File System
 
-dns.msc : DNS Manager
+`dns.msc` : DNS Manager
 
-dhcpm
+`dhcpm` : Manage DHCP servers
 
 
 
